@@ -1,0 +1,27 @@
+{
+  "name": "craft-plugins/craft-whitelabel",
+  "description": "Removes mention of Craft CMS.",
+  "version": "1.0.0",
+  "type": "craft-plugin",
+  "keywords": ["white-label", "branding", "security"],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Joshua Baker",
+      "homepage": "https://joshuabaker.com"
+    }
+  ],
+  "require": {
+    "craftcms/cms": "^3.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "craftplugins\\whitelabel\\": "src/"
+    }
+  },
+  "extra": {
+    "handle": "whitelabel",
+    "name": "White Label",
+    "documentationUrl": "https://github.com/craft-plugins/craft-whitelabel/blob/master/README.md"
+  }
+}

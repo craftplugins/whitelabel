@@ -1,0 +1,16 @@
+#system-info {
+  padding-left: 18px !important;
+}
+
+#login-form .btn.submit {
+  color: #29323d;
+  background-image: linear-gradient(#fff, #fafafa);
+}
+
+#login-form h1,
+#poweredby,
+#site-icon,
+.plugin-credit,
+a[href*="verbb.io"] {
+  display: none !important;
+}
