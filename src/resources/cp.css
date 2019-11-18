@@ -10,6 +10,7 @@
 #login-form h1,
 #poweredby,
 #site-icon,
+#edition:not(.hot),
 .plugin-credit,
 a[href*="verbb.io"] {
   display: none !important;
