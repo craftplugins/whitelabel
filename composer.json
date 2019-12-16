@@ -1,5 +1,5 @@
 {
-  "name": "craft-plugins/craft-whitelabel",
+  "name": "craftplugins/whitelabel",
   "description": "Removes mention of Craft CMS.",
   "version": "1.0.0",
   "type": "craft-plugin",
