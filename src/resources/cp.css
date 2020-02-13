@@ -1,5 +1,6 @@
 #system-info {
   padding-left: 18px !important;
+  grid-template-columns: auto !important;
 }
 
 #login-form .btn.submit {
