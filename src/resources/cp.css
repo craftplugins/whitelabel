@@ -1,6 +1,3 @@
-#login-form h1,
-#poweredby,
-.plugin-credit,
-a[href*="verbb.io"] {
+#poweredby {
   display: none !important;
 }
